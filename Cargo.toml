@@ -1,0 +1,7 @@
+[package]
+name = "sodium"
+version = "0.1.0"
+authors = ["Andrew Turley <tekmaster@gmail.com>"]
+
+[dependencies]
+sodiumoxide = "0.0.16"
